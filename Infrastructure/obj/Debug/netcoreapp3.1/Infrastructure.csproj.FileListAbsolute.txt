@@ -1,0 +1,120 @@
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+D:\TMDT_LAPTOP\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP-master\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\TMDT_LAPTOP-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\HATHAO\Desktop\LaptopStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Store_Computer\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Store_Computer\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+C:\Users\phung\Desktop\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\EcommerceWebsite\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\EcommerceWebsite\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

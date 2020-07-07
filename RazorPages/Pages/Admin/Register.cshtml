@@ -1,0 +1,46 @@
+@page
+@model RazorPages.Pages.Admin.RegisterModel
+@{
+    Layout = null;
+}
+<html lang="en">
+<head>
+  <title>Đăng kí</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="col-sm-4">
+      <form method="POST">
+        <br><br>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+          <label for="email">Tên email:</label>
+          <input type="text" asp-for="registerModels.Email" class="form-control" placeholder="Nhập tên đăng nhập" id="nameaccount" >
+          <span asp-validation-for="registerModels.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+          <label for="pwd">Mật khẩu:</label>
+          <input type="password" asp-for="registerModels.Password" class="form-control" placeholder="Nhập mật khẩu" id="pwd" >
+          <span asp-validation-for="registerModels.Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+          <label for="pwd">Xác nhận mật khẩu:</label>
+          <input type="password" asp-for="registerModels.ConfirmPassword" class="form-control" placeholder="Nhập mật khẩu" id="pwd" >
+          <span asp-validation-for="registerModels.ConfirmPassword" class="text-danger"></span>
+        </div>
+        <div class="form-group form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="checkbox"> Ghi nhớ
+          </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Đăng nhập</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

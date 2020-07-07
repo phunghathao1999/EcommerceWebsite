@@ -1,0 +1,96 @@
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\OneDrive\Máy tính\New folder\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+D:\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+D:\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+D:\TMDT_LAPTOP\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\TMDT_LAPTOP-master\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\TMDT_LAPTOP-master\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+D:\TMDT_LAPTOP-master\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+D:\TMDT_LAPTOP-master\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP-master\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\TMDT_LAPTOP-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+D:\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+D:\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+D:\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\HATHAO\Desktop\LaptopStore\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+D:\Store_Computer\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\Store_Computer\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+D:\Store_Computer\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+D:\Store_Computer\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Store_Computer\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Store_Computer\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\phung\Desktop\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+D:\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+D:\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+D:\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\EcommerceWebsite\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\EcommerceWebsite\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
