@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace RazorPages.Pages.Admin
 {
-    [Authorize]
+    [Authorize(Roles = "ADMINISTRATOR")]
     public class IndexModel : PageModel
     {
         private readonly ILaptopService _laptopservice;

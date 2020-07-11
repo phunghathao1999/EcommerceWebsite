@@ -8,8 +8,7 @@ namespace ApplicationCore.Interfaces
         ICartRepository Cart { get; }
         ICartDetailRepository CartDetail { get; }
         IPromotionRepository Promotion { get; }
-        IAccountRepository Account { get; }
-        IUserRepository User {get;}
+        IUserRepository User { get; }
         Task<int> CompleteAsync();
     }
 }

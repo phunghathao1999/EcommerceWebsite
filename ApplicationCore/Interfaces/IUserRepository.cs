@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity;
+using ApplicationCore.EF;
 
 namespace ApplicationCore.Interfaces
 {
-    public interface IUserRepository
+    public interface IUserRepository : IRepository<Userinformation>
     {
         
     }

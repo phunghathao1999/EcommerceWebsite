@@ -3,9 +3,9 @@ using ApplicationCore.Interfaces;
 
 namespace Infrastructure.Persistence.Repositories
 {
-    public class AccountRepository :  Repository<Userinformation>, IAccountRepository
+    public class UserRepository :  Repository<Userinformation>, IUserRepository
     {
-        public AccountRepository(ApplicationDbContext context) : base(context)
+        public UserRepository(ApplicationDbContext context) : base(context)
         {
 
         }

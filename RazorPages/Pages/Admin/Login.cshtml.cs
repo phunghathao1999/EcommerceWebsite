@@ -14,8 +14,10 @@ namespace RazorPages.Pages.Admin
     [AllowAnonymous]
     public class LoginModel : PageModel
     {
-        public LoginModel()
+        private readonly IUserIdentityService _useridentityservice;
+        public LoginModel(IUserIdentityService userIdentityService)
         {
+            _useridentityservice = userIdentityService;
         }
 
         public IActionResult OnGet()
@@ -25,16 +27,18 @@ namespace RazorPages.Pages.Admin
 
         [BindProperty]
         public loginModels login { get; set; }
-        public accountModels accountModels { get; set; }
-        // public async Task<IActionResult> OnPost()
-        // {
-        //     if (!ModelState.IsValid)
-        //     {
-        //         return Page();
-        //     }
+        public async Task<IActionResult> OnPost()
+        {
+            if(ModelState.IsValid)
+            {
+                var result = await _useridentityservice.LoginAsync(login.Email, login.Password, login.RememberMe, false);
+                
+                if(result.Succeeded)
+                    return RedirectToPage("Index");
+            }
 
-        //     return RedirectToPage("Index");
-        // }
+            return Page();
+        }
 
     }
 }

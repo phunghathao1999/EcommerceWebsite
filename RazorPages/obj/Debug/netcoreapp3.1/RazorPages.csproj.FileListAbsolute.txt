@@ -167,7 +167,6 @@ D:\EcommerceWebsite\RazorPages\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\RazorPages.TagHelpers.input.cache
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\RazorPages.TagHelpers.output.cache
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\RazorPages.RazorCoreGenerate.cache
-D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Login.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Logout.cshtml.g.cs
@@ -176,7 +175,6 @@ D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutAdmin.cshtml.g.cs
-D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\EcommerceWebsite\RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs

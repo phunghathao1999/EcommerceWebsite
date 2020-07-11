@@ -20521,11 +20521,6 @@
   "RootNamespace": "RazorPages",
   "Documents": [
     {
-      "FilePath": "d:\\EcommerceWebsite\\RazorPages\\Pages\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\EcommerceWebsite\\RazorPages\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -20553,11 +20548,6 @@
     {
       "FilePath": "d:\\EcommerceWebsite\\RazorPages\\Pages\\Admin\\Index.cshtml",
       "TargetPath": "Pages\\Admin\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\EcommerceWebsite\\RazorPages\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {

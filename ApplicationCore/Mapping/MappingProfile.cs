@@ -20,8 +20,8 @@ namespace ApplicationCore.Mapping
             CreateMap<Promotion, promotionModels>();
             CreateMap<promotionModels, Promotion>();
 
-            CreateMap<Userinformation, accountModels>();
-            CreateMap<accountModels, Userinformation>();
+            CreateMap<Userinformation, userinformationModels>();
+            CreateMap<userinformationModels, Userinformation>();
         }
     }
 }

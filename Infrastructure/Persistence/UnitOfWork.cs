@@ -15,13 +15,12 @@ namespace Infrastructure.Persistence
             Cart = new CartRepository(context);
             CartDetail = new CartDetailRepository(context);
             Promotion = new PromotionRepository(context);
-            Account = new AccountRepository(context);
+            User = new UserRepository(context);
         }
         public ILaptopRepository Laptop { get; }
         public ICartRepository Cart { get; }
         public ICartDetailRepository CartDetail { get; }
         public IPromotionRepository Promotion { get; }
-        public IAccountRepository Account { get; }
         public IUserRepository User { get; }
 
         public async Task<int> CompleteAsync()

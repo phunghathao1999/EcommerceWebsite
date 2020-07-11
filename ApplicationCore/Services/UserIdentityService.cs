@@ -6,13 +6,13 @@ using Microsoft.AspNetCore.Identity;
 
 namespace Infrastructure.Persistence.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserIdentityService : IUserIdentityService
     {
-        private readonly  UserManager<ApplicationUser> _userManager;
-        private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly  UserManager<IdentityUser> _userManager;
+        private readonly SignInManager<IdentityUser> _signInManager;
         private readonly RoleManager<IdentityRole> _roleManager;
 
-        public UserRepository(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, RoleManager<IdentityRole> roleManager)
+        public UserIdentityService(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -35,34 +35,41 @@ namespace Infrastructure.Persistence.Repositories
             return await _userManager.FindByNameAsync(userName);
         }
 
-        public async Task<IdentityResult> CreateUserAsync(ApplicationUser user, string password)
+        public async Task<IdentityResult> CreateUserAsync(IdentityUser user, string password)
         {
             var result = await _userManager.CreateAsync(user,password);
             return result;
         }
 
-        public async Task<IdentityResult> UpdateUserAsync(ApplicationUser user, string password)
+        public async Task<IdentityResult> UpdateUserAsync(IdentityUser user, string password)
         {
             var result = await _userManager.UpdateAsync(user);
             return result;
         }
 
-        public async Task<IdentityResult> UpdatePwdAsync(ApplicationUser user, string password)
+        public async Task<IdentityResult> UpdatePwdAsync(IdentityUser user, string password)
         {
             var token = await _userManager.GeneratePasswordResetTokenAsync(user);
             var result = await _userManager.ResetPasswordAsync(user, token, password);
             return result;
         }
 
-        public async Task<IdentityResult> AddRoleToUserAsync(ApplicationUser user, string role)
+        public async Task<IdentityResult> AddRoleToUserAsync(IdentityUser user, string role)
         {
             var result = await _userManager.AddToRoleAsync(user,role);
             return result;
         }
 
-        public async Task<IEnumerable<string>> GetRoleToUserAsync(ApplicationUser user)
+        public async Task<IEnumerable<string>> GetRoleToUserAsync(IdentityUser user)
         {
             var result = await _userManager.GetRolesAsync(user);
+            return result;
+        }
+
+        public async Task<IdentityResult> CreateRoleAsync(string role)
+        {
+            var identityRole = new IdentityRole(role);
+            var result = await _roleManager.CreateAsync(identityRole);
             return result;
         }
     }

@@ -1,8 +1,16 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace ApplicationCore.Models
 {
     public class loginModels
     {
-        public string accountname {get;set;}
-        public string pwd {get;set;}
+        [Required]
+        [EmailAddress]
+        public string Email {get;set;}
+        [Required]
+        [DataType(DataType.Password)]
+        public string Password {get;set;}
+        [Display(Name = "RememberMe")]
+        public bool RememberMe {get;set;}
     }
 }
