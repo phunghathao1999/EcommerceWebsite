@@ -4,7 +4,7 @@ using ApplicationCore.EF;
 using ApplicationCore.Interfaces;
 using Microsoft.AspNetCore.Identity;
 
-namespace Infrastructure.Persistence.Repositories
+namespace ApplicationCore.Services
 {
     public class UserIdentityService : IUserIdentityService
     {

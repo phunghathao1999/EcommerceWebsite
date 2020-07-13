@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPages", "RazorPages\RazorPages.csproj", "{923C8224-474A-4281-BCD2-7F4A0D86F42D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCore", "ApplicationCore\ApplicationCore.csproj", "{477409FB-99D8-4477-A3AC-5053A7180EBC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{26150A4D-668D-4997-97B7-954B633186F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenters", "Presenters\Presenters.csproj", "{871452D6-57CA-446E-983D-A0C5A3C8CEE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +27,10 @@ Global
 		{26150A4D-668D-4997-97B7-954B633186F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26150A4D-668D-4997-97B7-954B633186F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26150A4D-668D-4997-97B7-954B633186F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871452D6-57CA-446E-983D-A0C5A3C8CEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871452D6-57CA-446E-983D-A0C5A3C8CEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871452D6-57CA-446E-983D-A0C5A3C8CEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871452D6-57CA-446E-983D-A0C5A3C8CEE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
